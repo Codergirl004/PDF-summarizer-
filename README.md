@@ -4,16 +4,23 @@ Upload a PDF once via a beautiful Gradio interface and instantly extract a clean
 
 Features
 ✅ Upload PDF once (no duplicate sending)
+
 🧠 Get LLM-powered summary & highlights
+
 🎨 Beautiful lavender-themed frontend
+
 🔁 FastAPI backend with /latest and /process_json
+
 💾 Local file handling, no cloud upload
 
 
 📦 Tech Stack
 FastAPI
+
 Gradio
+
 Groq/OpenRouter LLMs
+
 Python Libraries: requests, fpdf, PyMuPDF, shutil
 
 
