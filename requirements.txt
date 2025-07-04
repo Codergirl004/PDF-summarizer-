@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+gradio
+requests
+fpdf
+PyMuPDF  # For PDF text extraction
+python-dotenv  # For loading API keys from .env
+groq  # Groq client (or openrouter, if using OpenRouter)
