@@ -47,21 +47,15 @@ python ui.py
 
 🔗 API Endpoints
 Endpoint	Description	Format
+
 /	Welcome screen	HTML
-/process_json	Process PDF, return summary/highlights	JSON
+
+/process_json	Process PDF, return summary
+
+/highlights	JSON
+
 /latest	View summary & highlights (browser)	HTML
 
-📎 Example PDF for Testing
-Use this sample gibberish PDF or upload your own.
-
 ✨ UI Preview
-Screenshot or GIF can go here (optional)
 
-📌 To-Do / Roadmap
- Add multiple PDF support
 
- History view in backend
-
- Optional dark mode
-
- Use other LLM providers (e.g., Claude, Gemini)
