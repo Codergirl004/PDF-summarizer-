@@ -42,9 +42,6 @@ python -m venv venv
 source venv/bin/activate  # or venv\Scripts\activate on Windows
 
 # Install dependencies
-pip install fastapi uvicorn gradio requests fpdf PyMuPDF python-dotenv groq
-
-pip install openai langchain llama-index
 
 pip install -r requirements.txt
 
