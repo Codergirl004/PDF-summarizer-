@@ -17,19 +17,13 @@ Groq/OpenRouter LLMs
 Python Libraries: requests, fpdf, PyMuPDF, shutil
 
 
-📁 Project Structure
-bash
-Copy
-Edit
 
-
+Project Structure:
 📂 pdf-summarizer/
-│
-├── main.py             # FastAPI backend
-├── ui.py               # Gradio frontend
-├── summarizer.py       # Text extraction + LLM logic
-├── requirements.txt
-└── README.md
+  main.py (FastAPI backend)
+  ui.py (Gradio frontend)
+  summarizer.py (Text extraction + LLM logic)
+  requirements.txt
 
 
 ⚙️ Installation
