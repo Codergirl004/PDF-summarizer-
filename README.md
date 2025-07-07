@@ -66,6 +66,7 @@ Endpoint	Description	Format
 
 /latest	View summary & highlights (browser)	HTML
 
-✨ UI Preview
+
+
 
 
